@@ -2,8 +2,7 @@
 	font-family: 'Open Sans', sans-serif;
 }
 
-body {
-	min-height: 95vh;
+main {
 	display: flex;
 	justify-content: center;
 	align-items: center;
