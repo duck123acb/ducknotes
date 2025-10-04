@@ -1,8 +1,6 @@
 # Duck Notes
 This is a small note taking app for the web  
-For now, this use editing plain text documents quickly!  
-It is a local saving system  
-Deploys from Netlify  
+It has a local saving system  
 
-## link to site: https://ducknotes.netlify.app/
+## link to site: https://duck123acb.github.io/ducknotes/
 ## licence: https://github.com/duck123acb/notes/blob/main/LICENSE
